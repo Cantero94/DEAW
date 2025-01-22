@@ -20,8 +20,6 @@ Se centra en el aprendizaje y manejo de Git y GitHub como herramientas principal
    - Realizar un commit inicial con el mensaje: _"Comenzamos con los ejercicios de Git"_.
    - Subir los cambios al repositorio remoto con `git push`.
 
-...
-
 2. **Ignorar archivos y carpetas:**
    - Crear un archivo `privado.txt` y una carpeta `privada` en el repositorio local.
    - Configurar un archivo `.gitignore` para excluir ambos.
@@ -43,9 +41,9 @@ Se centra en el aprendizaje y manejo de Git y GitHub como herramientas principal
 
 | NOMBRE              | GITHUB                          |
 |---------------------|---------------------------------|
-| Nombre del compañero 1 | [Enlace a GitHub 1](#)         |
-| Nombre del compañero 2 | [Enlace a GitHub 2](#)         |
-| Nombre del compañero 3 | [Enlace a GitHub 3](#)         |
+| Ana Belén García Milla | [ana-daw](#https://github.com/ana-daw)         |
+| José Ángel Cabeza López | [joseAngelCabeza](#https://github.com/joseAngelCabeza)         |
+| Sergio Roca Sáez | [Sergiws](#https://github.com/sergiws)         |
 
 7. **Colaboración:**
    - Agregar al profesor (`raul-profesor`) como colaborador del repositorio.
